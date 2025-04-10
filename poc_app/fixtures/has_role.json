@@ -1,0 +1,6462 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:17.393190",
+  "name": "7e1b2c64a0",
+  "parent": "permission-manager",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.179821",
+  "name": "8c3f784b20",
+  "parent": "Serial No Warranty Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.258416",
+  "name": "c8c0721dfd",
+  "parent": "Serial No Service Contract Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.679557",
+  "name": "9402ac24c8",
+  "parent": "Serial No Status",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:52.929618",
+  "name": "10677c5f5e",
+  "parent": "ToDo",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.870099",
+  "name": "8288cc26f3",
+  "parent": "Gross Profit",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.795303",
+  "name": "1e50fd1e8d",
+  "parent": "Accounts Receivable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.185100",
+  "name": "c981fac4b3",
+  "parent": "Accounts Payable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.374424",
+  "name": "1a45255c88",
+  "parent": "Sales Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.392520",
+  "name": "7bf9c32635",
+  "parent": "Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.831877",
+  "name": "c58a67782f",
+  "parent": "Bank Reconciliation Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.567872",
+  "name": "950d7b2901",
+  "parent": "Bank Clearance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.858090",
+  "name": "ce75c015bf",
+  "parent": "Sales Person-wise Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.610652",
+  "name": "d461a62973",
+  "parent": "Item-wise Purchase History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.873503",
+  "name": "8e45f29708",
+  "parent": "Issued Items Against Work Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.142746",
+  "name": "d524e75d16",
+  "parent": "Sales Partners Commission",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.065512",
+  "name": "72ce59c622",
+  "parent": "Requested Items To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.725525",
+  "name": "45481f1f56",
+  "parent": "Item-wise Sales Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.414888",
+  "name": "2dd28a8415",
+  "parent": "Item-wise Sales History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.264565",
+  "name": "945d7e3861",
+  "parent": "Project wise Stock Tracking",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.151488",
+  "name": "7d368b40c2",
+  "parent": "Batch-Wise Balance History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.127285",
+  "name": "e0fcbc2221",
+  "parent": "Item Prices",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.107407",
+  "name": "f95dbb879d",
+  "parent": "Item-wise Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.189135",
+  "name": "47a4e45ae4",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.155995",
+  "name": "6adecc4126",
+  "parent": "Quotation Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.575427",
+  "name": "0f85818a55",
+  "parent": "Delivery Note Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.374152",
+  "name": "3c1c07f6bf",
+  "parent": "Sales Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.310036",
+  "name": "3867ad21ea",
+  "parent": "Sales Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.578481",
+  "name": "1784444d02",
+  "parent": "Purchase Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.249248",
+  "name": "79e06c2a9f",
+  "parent": "Purchase Receipt Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.547127",
+  "name": "2a43204f24",
+  "parent": "Purchase Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.904403",
+  "name": "7d993440e4",
+  "parent": "Budget Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.961848",
+  "name": "1cb982abf9",
+  "parent": "Available Stock for Packing Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.207125",
+  "name": "2382da2b0b",
+  "parent": "Delivered Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.638129",
+  "name": "d8cb2839db",
+  "parent": "Received Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.615795",
+  "name": "d7487118de",
+  "parent": "Material Requests for which Supplier Quotations are not created",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.825090",
+  "name": "2aae35a4f3",
+  "parent": "Open Work Orders",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.808255",
+  "name": "f765e923eb",
+  "parent": "Work Orders in Progress",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.633501",
+  "name": "1b0ced2516",
+  "parent": "Completed Work Orders",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.746309",
+  "name": "2227223848",
+  "parent": "Item Shortage Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.305247",
+  "name": "bfba387e09",
+  "parent": "Items To Be Requested",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.942321",
+  "name": "5cc01ac841",
+  "parent": "Item-wise Price List Rate",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.475389",
+  "name": "47fe9d2adc",
+  "parent": "sales-funnel",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:52.749908",
+  "name": "ed438aff19",
+  "parent": "setup-wizard",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.162405",
+  "name": "a848ca463b",
+  "parent": "Lead Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.832815",
+  "name": "a99b5d9d95",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.168781",
+  "name": "94473bffc1",
+  "parent": "Supplier-Wise Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.350714",
+  "name": "b93a93da59",
+  "parent": "Stock Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.798833",
+  "name": "79c160e714",
+  "parent": "Payment Period Based On Invoice Date",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.092963",
+  "name": "d143c23ce1",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.427691",
+  "name": "9c7123be73",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.330293",
+  "name": "189ddc51e0",
+  "parent": "General Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:17.813307",
+  "name": "6dcda9b24a",
+  "parent": "Permitted Documents For User",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.070799",
+  "name": "eb162ccb7c",
+  "parent": "Balance Sheet",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.763043",
+  "name": "73198283b2",
+  "parent": "Profit and Loss Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.090317",
+  "name": "4a9e2dc73d",
+  "parent": "Trial Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.049473",
+  "name": "bba27c42ff",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.115328",
+  "name": "80cf84ffe1",
+  "parent": "Stock Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.225660",
+  "name": "ca4960d28c",
+  "parent": "Accounts Receivable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.762087",
+  "name": "5dec973846",
+  "parent": "Accounts Payable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:04:06.599681",
+  "name": "137ac791be",
+  "parent": "print-format-builder",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:17.738988",
+  "name": "466c27f840",
+  "parent": "Document Share Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.282209",
+  "name": "e16064f776",
+  "parent": "BOM Search",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.813472",
+  "name": "d65075551a",
+  "parent": "Trial Balance for Party",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:52.507050",
+  "name": "294ed57142",
+  "parent": "backups",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.015122",
+  "name": "565cf0fc60",
+  "parent": "Cash Flow",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.285933",
+  "name": "ce76c5308d",
+  "parent": "Inactive Customers",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.037692",
+  "name": "3092fbcfda",
+  "parent": "Asset Depreciation Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.481633",
+  "name": "ee4848c7b6",
+  "parent": "Asset Depreciations and Balances",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:24.807110",
+  "name": "5b393dd6ed",
+  "parent": "stock-balance",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.317202",
+  "name": "bfe3f10706",
+  "parent": "Daily Timesheet Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.558828",
+  "name": "9469d72661",
+  "parent": "Supplier Quotation Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.417413",
+  "name": "7a528b0659",
+  "parent": "Profitability Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.012861",
+  "name": "dabf1684cf",
+  "parent": "Batch Item Expiry Status",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.763668",
+  "name": "81bd0c4adb",
+  "parent": "BOM Stock Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.344225",
+  "name": "241b58b231",
+  "parent": "Work Order Stock Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:04:10.661567",
+  "name": "de097ad77c",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.256490",
+  "name": "40e832d6b0",
+  "parent": "Prospects Engaged But Not Converted",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.101540",
+  "name": "c3285b3422",
+  "parent": "Campaign Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.216205",
+  "name": "0a6b76f131",
+  "parent": "Lead Owner Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.227694",
+  "name": "921ce65cde",
+  "parent": "Total Stock Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:29.386448",
+  "name": "3db4977fa5",
+  "parent": "Support Hour Distribution",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:40.270209",
+  "name": "eddab7714c",
+  "parent": "Asset Maintenance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.126085",
+  "name": "a17edd1d3f",
+  "parent": "Sales Payment Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.968141",
+  "name": "4b450bfa11",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.862174",
+  "name": "1244ba69e3",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.440169",
+  "name": "aaea691fce",
+  "parent": "Share Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.886928",
+  "name": "a0a2805335",
+  "parent": "Share Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.375012",
+  "name": "1e9d31cb17",
+  "parent": "Warehouse wise Item Balance Age and Value",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.542822",
+  "name": "82c7f61575",
+  "parent": "Item Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:17.701526",
+  "name": "cecd2d32e7",
+  "parent": "Transaction Log Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.505621",
+  "name": "b02c429f27",
+  "parent": "Consolidated Financial Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.551238",
+  "name": "671d3fc88b",
+  "parent": "BOM Stock Calculated",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.029443",
+  "name": "99a585ddf8",
+  "parent": "Customers Without Any Sales Transactions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.843966",
+  "name": "adf069fd70",
+  "parent": "BOM Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.934372",
+  "name": "1ff2ca1225",
+  "parent": "Address And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.952724",
+  "name": "d4f2e20629",
+  "parent": "TDS Computation Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.351618",
+  "name": "a3fb4bcefc",
+  "parent": "Tax Withholding Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.145110",
+  "name": "f44040b5e5",
+  "parent": "Lead Conversion Time",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:49.679973",
+  "name": "8ed627c9da",
+  "parent": "IRS 1099",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.396706",
+  "name": "972ec31d68",
+  "parent": "Sales Person Commission Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.118414",
+  "name": "21fedad1f4",
+  "parent": "Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.510256",
+  "name": "9938c93221",
+  "parent": "Purchase Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.202271",
+  "name": "0ae3b45b08",
+  "parent": "Stock Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.715014",
+  "name": "5708e758ea",
+  "parent": "Production Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:56.648414",
+  "name": "43c7b13ff0",
+  "parent": "Review",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.881914",
+  "name": "ec2601185c",
+  "parent": "Pending SO Items For Purchase Request",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.460403",
+  "name": "e5c720d3bd",
+  "parent": "Trial Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.671056",
+  "name": "ac193c31dc",
+  "parent": "Customer Ledger Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.524469",
+  "name": "3b6e6543f9",
+  "parent": "Supplier Ledger Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.198953",
+  "name": "4cb5835e78",
+  "parent": "Lost Opportunity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.851618",
+  "name": "7a0b5e5c63",
+  "parent": "Gross and Net Profit Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.288998",
+  "name": "844b659c0c",
+  "parent": "Product Bundle Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.359514",
+  "name": "05a431c0df",
+  "parent": "Employee Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.289223",
+  "name": "bf2103a403",
+  "parent": "Project Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.011894",
+  "name": "77ef18025a",
+  "parent": "Sales Partner Commission Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.811120",
+  "name": "3b11c8e896",
+  "parent": "Sales Partner Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.738270",
+  "name": "09801060e4",
+  "parent": "Sales Partner Target Variance based on Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.769566",
+  "name": "54ee51858d",
+  "parent": "Sales Person Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.320646",
+  "name": "09f976ce62",
+  "parent": "Territory Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.745171",
+  "name": "23bf850666",
+  "parent": "Procurement Tracker",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.847362",
+  "name": "75196b9f0a",
+  "parent": "Inactive Sales Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.685834",
+  "name": "907c1f5199",
+  "parent": "Subcontracted Item To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.482549",
+  "name": "b5da13fed6",
+  "parent": "Subcontracted Raw Materials To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.367801",
+  "name": "3fd11abecd",
+  "parent": "BOM Explorer",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.985891",
+  "name": "6dd4c3e72d",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.994635",
+  "name": "39421edfe8",
+  "parent": "Delayed Item Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.069944",
+  "name": "e631f5d185",
+  "parent": "Delayed Order Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:52.673348",
+  "name": "8fb0767997",
+  "parent": "user-profile",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.042141",
+  "name": "2f3f7f3f2b",
+  "parent": "bom-comparison-tool",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:40.314681",
+  "name": "0583a1698c",
+  "parent": "Fixed Asset Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.240277",
+  "name": "5ab95146ca",
+  "parent": "Stock and Account Value Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 10:01:11.922283",
+  "name": "dd673a2758",
+  "parent": "Home",
+  "parentfield": "roles",
+  "parenttype": "Workspace",
+  "role": "Engineer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.568693",
+  "name": "ad35f16ff1",
+  "parent": "point-of-sale",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.351345",
+  "name": "34189ebd62",
+  "parent": "Territory-wise Sales",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.899494",
+  "name": "749cd8cabb",
+  "parent": "BOM Operations Time",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.500596",
+  "name": "b5a9c29abb",
+  "parent": "Production Planning Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:26.924629",
+  "name": "0726c6baec",
+  "parent": "Website Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.738013",
+  "name": "7112cb4ab7",
+  "parent": "Work Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.525246",
+  "name": "5957f427ab",
+  "parent": "Job Card Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.443192",
+  "name": "a771de7f96",
+  "parent": "Downtime Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.685514",
+  "name": "e122698fb6",
+  "parent": "Quality Inspection Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.533452",
+  "name": "d56f44d5fa",
+  "parent": "Purchase Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.498644",
+  "name": "9141d2169e",
+  "parent": "Project Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.782802",
+  "name": "21ac8b0b5c",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.789564",
+  "name": "01246c5279",
+  "parent": "Sales Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.660630",
+  "name": "68295fb84e",
+  "parent": "Requested Items to Order and Receive",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.149068",
+  "name": "f4ad1bd511",
+  "parent": "Stock Qty vs Serial No Count",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:31.453308",
+  "name": "bd01849994",
+  "parent": "YouTube Interactions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:29.438996",
+  "name": "f59e8a8ee2",
+  "parent": "First Response Time for Issues",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.234622",
+  "name": "4829f1c375",
+  "parent": "First Response Time for Opportunity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.054220",
+  "name": "0ab218b30a",
+  "parent": "POS Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:29.410773",
+  "name": "b710244019",
+  "parent": "Issue Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:29.463206",
+  "name": "3c75f1d805",
+  "parent": "Issue Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:24.904394",
+  "name": "699e039978",
+  "parent": "warehouse-capacity-summary",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.596786",
+  "name": "59e8d22873",
+  "parent": "Production Plan Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.571328",
+  "name": "070d05e01e",
+  "parent": "Cost of Poor Quality Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.412043",
+  "name": "261f51ca58",
+  "parent": "Delayed Tasks Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.994302",
+  "name": "6e5e6503bf",
+  "parent": "Billed Items To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.918894",
+  "name": "329820651e",
+  "parent": "Serial No Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.894467",
+  "name": "201ee586d8",
+  "parent": "Incorrect Balance Qty After Transaction",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.033140",
+  "name": "6688ce8731",
+  "parent": "Incorrect Serial No Valuation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.718849",
+  "name": "c0bc575b6f",
+  "parent": "Subcontract Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.102881",
+  "name": "30420e4dd0",
+  "parent": "COGS By Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.268527",
+  "name": "2783a3f134",
+  "parent": "Incorrect Stock Value Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.121234",
+  "name": "d0489dc66b",
+  "parent": "Sales Pipeline Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:04:06.692346",
+  "name": "0114f5ccb6",
+  "parent": "print-format-builder-beta",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.181185",
+  "name": "92d8b4b33b",
+  "parent": "Opportunity Summary by Sales Stage",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.479917",
+  "name": "d62b9a94e6",
+  "parent": "Process Loss Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.658871",
+  "name": "1a2c201e82",
+  "parent": "Work Order Consumed Materials",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.931097",
+  "name": "8a278799e9",
+  "parent": "Deferred Revenue and Expense",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.650019",
+  "name": "5e68d0d79d",
+  "parent": "Stock Ledger Invariant Check",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.904561",
+  "name": "60de1780ea",
+  "parent": "Payment Terms Status for Sales Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.501517",
+  "name": "09f9babc34",
+  "parent": "FIFO Queue vs Qty After Transaction Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.973387",
+  "name": "775953c6ac",
+  "parent": "Payment Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:17.655128",
+  "name": "025e80aff2",
+  "parent": "Database Storage Usage By Tables",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.781710",
+  "name": "a356cf8a06",
+  "parent": "Warehouse Wise Stock Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:44.431574",
+  "name": "d1fc910552",
+  "parent": "Audit System Hooks",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:34.424149",
+  "name": "3520e2b9c8",
+  "parent": "workflow-builder",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.165166",
+  "name": "6d9f5b8eec",
+  "parent": "Voucher-wise Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.245215",
+  "name": "bc709c233a",
+  "parent": "Financial Ratios",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.034234",
+  "name": "cd7788451b",
+  "parent": "Serial and Batch Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:40.294403",
+  "name": "8faef619d9",
+  "parent": "Asset Activity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.274707",
+  "name": "506c5f2950",
+  "parent": "General and Payment Ledger Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.215023",
+  "name": "bbe0a074c5",
+  "parent": "Reserved Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.189242",
+  "name": "e886ece631",
+  "parent": "visual-plant-floor",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.222922",
+  "name": "a6f3c4ce4d",
+  "parent": "Lost Quotations",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "7efa360920",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:04:27.928005",
+  "name": "0933b5f88b",
+  "parent": "Guest",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Guest"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.871731",
+  "name": "5a6b25f73d",
+  "parent": "Inventory",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.897475",
+  "name": "cbcd402299",
+  "parent": "Manufacturing",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.921311",
+  "name": "5559fe63f7",
+  "parent": "Accounts",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.935658",
+  "name": "e4522b32d9",
+  "parent": "Sales",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.949641",
+  "name": "42692a6936",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-14 12:27:22.229682",
+  "name": "c9015dd888",
+  "parent": "yugendran@usistech.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "CustomerPOC"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 12:14:40.928734",
+  "name": "3b63b3a1ad",
+  "parent": "USIS EMPLOYEE ROLE",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "USIS EMPLOYEES"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 23:02:34.303173",
+  "name": "e9d1a12766",
+  "parent": "HR ADMIN ROLE",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "HR ADMIN"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 23:03:09.339285",
+  "name": "ff75baa9db",
+  "parent": "hradmin@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR ADMIN"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 12:17:26.255408",
+  "name": "3d0525c865",
+  "parent": "EnigneerPOC",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Engineer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-14 12:30:40.756161",
+  "name": "0dfa0654f1",
+  "parent": "CustomerPOC",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "CustomerPOC"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 09:43:49.904867",
+  "name": "e7ae872532",
+  "parent": "Delivery for Next 7 days",
+  "parentfield": "roles",
+  "parenttype": "Custom HTML Block",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-10 12:11:10.140353",
+  "name": "aeb2ff6db7",
+  "parent": "testreport",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-22 16:28:09.910457",
+  "name": "2162ec53d7",
+  "parent": "Next & days Delivery Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-01 10:50:11.456351",
+  "name": "9286ee5419",
+  "parent": "DashBoardCalendar",
+  "parentfield": "roles",
+  "parenttype": "Custom HTML Block",
+  "role": "Engineer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 12:41:56.199421",
+  "name": "f142ef4126",
+  "parent": "testing",
+  "parentfield": "roles",
+  "parenttype": "Custom HTML Block",
+  "role": "Engineer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 12:52:30.751183",
+  "name": "fe7b4395fa",
+  "parent": "WORK",
+  "parentfield": "roles",
+  "parenttype": "Workspace",
+  "role": "Engineer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 12:54:24.126277",
+  "name": "0fe7f87578",
+  "parent": "AdminDashBoardCalendar",
+  "parentfield": "roles",
+  "parenttype": "Custom HTML Block",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-08 12:45:46.707919",
+  "name": "117e94aad6",
+  "parent": "yugendranp24@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "USIS EMPLOYEES"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-09 16:47:23.423820",
+  "name": "1a3df4d6d5",
+  "parent": "naveenanna@gmail.con",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Engineer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-09 16:47:26.579020",
+  "name": "713f73a93d",
+  "parent": "manikandan.k@usistech.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Engineer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.179821",
+  "name": "9430942373",
+  "parent": "Serial No Warranty Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.258416",
+  "name": "f8227c17c6",
+  "parent": "Serial No Service Contract Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.679557",
+  "name": "6da856404b",
+  "parent": "Serial No Status",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.870099",
+  "name": "709688cf9a",
+  "parent": "Gross Profit",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.795303",
+  "name": "0e32204fdc",
+  "parent": "Accounts Receivable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.185100",
+  "name": "641e96f098",
+  "parent": "Accounts Payable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.374424",
+  "name": "1aa8f86140",
+  "parent": "Sales Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.392520",
+  "name": "42dcb206ea",
+  "parent": "Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.831877",
+  "name": "9d452ccddb",
+  "parent": "Bank Reconciliation Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.567872",
+  "name": "dde05a014b",
+  "parent": "Bank Clearance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.858090",
+  "name": "7523ed6c15",
+  "parent": "Sales Person-wise Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.610652",
+  "name": "751c24fe0b",
+  "parent": "Item-wise Purchase History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.873503",
+  "name": "815389cb44",
+  "parent": "Issued Items Against Work Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.142746",
+  "name": "038cd0097e",
+  "parent": "Sales Partners Commission",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.065512",
+  "name": "4894d838a7",
+  "parent": "Requested Items To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.725525",
+  "name": "a98e4ff913",
+  "parent": "Item-wise Sales Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.414888",
+  "name": "511b0c9b03",
+  "parent": "Item-wise Sales History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.264565",
+  "name": "4b2dad909f",
+  "parent": "Project wise Stock Tracking",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.151488",
+  "name": "c1e0800ca0",
+  "parent": "Batch-Wise Balance History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.127285",
+  "name": "f0f749850b",
+  "parent": "Item Prices",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.107407",
+  "name": "9a5d368737",
+  "parent": "Item-wise Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.189135",
+  "name": "0f28fe605e",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.155995",
+  "name": "17780ead2f",
+  "parent": "Quotation Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.575427",
+  "name": "855e164020",
+  "parent": "Delivery Note Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.374152",
+  "name": "1a6a4906da",
+  "parent": "Sales Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.310036",
+  "name": "d2104603d4",
+  "parent": "Sales Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.578481",
+  "name": "ede0bebd6e",
+  "parent": "Purchase Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.249248",
+  "name": "3931ce271a",
+  "parent": "Purchase Receipt Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.547127",
+  "name": "a923cacd6f",
+  "parent": "Purchase Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.904403",
+  "name": "882c312d1a",
+  "parent": "Budget Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.961848",
+  "name": "4c4da216fb",
+  "parent": "Available Stock for Packing Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.207125",
+  "name": "34ed490085",
+  "parent": "Delivered Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.638129",
+  "name": "c3203f7d2b",
+  "parent": "Received Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.615795",
+  "name": "80cc2c18e5",
+  "parent": "Material Requests for which Supplier Quotations are not created",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.825090",
+  "name": "b2acb1d290",
+  "parent": "Open Work Orders",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.808255",
+  "name": "e1159f0776",
+  "parent": "Work Orders in Progress",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.633501",
+  "name": "9321f36232",
+  "parent": "Completed Work Orders",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.746309",
+  "name": "b41b78c265",
+  "parent": "Item Shortage Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.305247",
+  "name": "0dd3592653",
+  "parent": "Items To Be Requested",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.942321",
+  "name": "625fc8d106",
+  "parent": "Item-wise Price List Rate",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.162405",
+  "name": "5120a3b4da",
+  "parent": "Lead Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.832815",
+  "name": "650720c7d9",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.168781",
+  "name": "9ff9de607d",
+  "parent": "Supplier-Wise Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.350714",
+  "name": "8ad0189546",
+  "parent": "Stock Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.798833",
+  "name": "39c8fe0275",
+  "parent": "Payment Period Based On Invoice Date",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.092963",
+  "name": "c9fd08007d",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.427691",
+  "name": "abb2d85cc2",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.330293",
+  "name": "e96c5aaf5f",
+  "parent": "General Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.070799",
+  "name": "6ba7b057d1",
+  "parent": "Balance Sheet",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.763043",
+  "name": "ce26fb8c2a",
+  "parent": "Profit and Loss Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.090317",
+  "name": "d7d3d3ed71",
+  "parent": "Trial Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.049473",
+  "name": "d590ebf297",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.115328",
+  "name": "ef6cca64c4",
+  "parent": "Stock Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.225660",
+  "name": "4e58fafa1a",
+  "parent": "Accounts Receivable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.762087",
+  "name": "bed74741da",
+  "parent": "Accounts Payable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.282209",
+  "name": "dc8c5e9aa5",
+  "parent": "BOM Search",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.813472",
+  "name": "c10f5f376c",
+  "parent": "Trial Balance for Party",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.015122",
+  "name": "44dfc775d8",
+  "parent": "Cash Flow",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.285933",
+  "name": "b86c8cbc78",
+  "parent": "Inactive Customers",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.317202",
+  "name": "88ea6f76be",
+  "parent": "Daily Timesheet Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.558828",
+  "name": "eb58ea9420",
+  "parent": "Supplier Quotation Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.417413",
+  "name": "c50ff77cb6",
+  "parent": "Profitability Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.012861",
+  "name": "3a4a8c3aea",
+  "parent": "Batch Item Expiry Status",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.763668",
+  "name": "b256c28dd6",
+  "parent": "BOM Stock Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.344225",
+  "name": "0f003a14fa",
+  "parent": "Work Order Stock Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:04:10.661567",
+  "name": "bb7936d5f2",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.256490",
+  "name": "aabbe61291",
+  "parent": "Prospects Engaged But Not Converted",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.101540",
+  "name": "fe2d473cfc",
+  "parent": "Campaign Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.216205",
+  "name": "086e0488a2",
+  "parent": "Lead Owner Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.227694",
+  "name": "dd6aa38ef6",
+  "parent": "Total Stock Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:29.386448",
+  "name": "7adf7413b7",
+  "parent": "Support Hour Distribution",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.126085",
+  "name": "cf6e14b9a7",
+  "parent": "Sales Payment Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.968141",
+  "name": "9bcc0d2bd5",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.862174",
+  "name": "acae0557ef",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.440169",
+  "name": "d8c5a4eee2",
+  "parent": "Share Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.375012",
+  "name": "778c748274",
+  "parent": "Warehouse wise Item Balance Age and Value",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.542822",
+  "name": "af991bd66e",
+  "parent": "Item Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:17.701526",
+  "name": "f998111254",
+  "parent": "Transaction Log Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.505621",
+  "name": "518209b6b5",
+  "parent": "Consolidated Financial Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.551238",
+  "name": "448e990266",
+  "parent": "BOM Stock Calculated",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.029443",
+  "name": "ceab09590c",
+  "parent": "Customers Without Any Sales Transactions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.843966",
+  "name": "c0efdf55db",
+  "parent": "BOM Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.934372",
+  "name": "7c38139dbf",
+  "parent": "Address And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.952724",
+  "name": "d580eb943a",
+  "parent": "TDS Computation Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.351618",
+  "name": "974960294d",
+  "parent": "Tax Withholding Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.145110",
+  "name": "ac94cfdb75",
+  "parent": "Lead Conversion Time",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:49.679973",
+  "name": "7a067c9319",
+  "parent": "IRS 1099",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.396706",
+  "name": "8f2c894be3",
+  "parent": "Sales Person Commission Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.118414",
+  "name": "b622734fdb",
+  "parent": "Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.510256",
+  "name": "b586b4a58d",
+  "parent": "Purchase Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.202271",
+  "name": "dc70d6e69a",
+  "parent": "Stock Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.715014",
+  "name": "a5acba9cdc",
+  "parent": "Production Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:56.648414",
+  "name": "0eae3145cd",
+  "parent": "Review",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.881914",
+  "name": "8a3f0666e2",
+  "parent": "Pending SO Items For Purchase Request",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.460403",
+  "name": "a833bb8c32",
+  "parent": "Trial Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.671056",
+  "name": "6ae013dc91",
+  "parent": "Customer Ledger Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.524469",
+  "name": "06d5f2aa93",
+  "parent": "Supplier Ledger Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.198953",
+  "name": "ddd699ed0c",
+  "parent": "Lost Opportunity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.851618",
+  "name": "5f43e10089",
+  "parent": "Gross and Net Profit Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.359514",
+  "name": "6152aaa437",
+  "parent": "Employee Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.289223",
+  "name": "2a4b086dc3",
+  "parent": "Project Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.011894",
+  "name": "ad66f36cee",
+  "parent": "Sales Partner Commission Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.811120",
+  "name": "a3a157682a",
+  "parent": "Sales Partner Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.738270",
+  "name": "8f3a2a97ae",
+  "parent": "Sales Partner Target Variance based on Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.769566",
+  "name": "36edb0f11d",
+  "parent": "Sales Person Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.320646",
+  "name": "045bbb38df",
+  "parent": "Territory Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.745171",
+  "name": "7464258ff1",
+  "parent": "Procurement Tracker",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.847362",
+  "name": "e63e16a44d",
+  "parent": "Inactive Sales Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.685834",
+  "name": "8cbc61832f",
+  "parent": "Subcontracted Item To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.482549",
+  "name": "c50a9fb129",
+  "parent": "Subcontracted Raw Materials To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.367801",
+  "name": "6df36845e7",
+  "parent": "BOM Explorer",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.985891",
+  "name": "5b8dbd5934",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.994635",
+  "name": "060583edb4",
+  "parent": "Delayed Item Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.069944",
+  "name": "e9a1fdec54",
+  "parent": "Delayed Order Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.042141",
+  "name": "f45b1f5d18",
+  "parent": "bom-comparison-tool",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:40.314681",
+  "name": "76899d2253",
+  "parent": "Fixed Asset Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.240277",
+  "name": "e6b6d07805",
+  "parent": "Stock and Account Value Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 10:01:11.922283",
+  "name": "480ffd4f26",
+  "parent": "Home",
+  "parentfield": "roles",
+  "parenttype": "Workspace",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.568693",
+  "name": "bc861f7d45",
+  "parent": "point-of-sale",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.351345",
+  "name": "a5d65b9af4",
+  "parent": "Territory-wise Sales",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.899494",
+  "name": "8ae08edc9b",
+  "parent": "BOM Operations Time",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.500596",
+  "name": "21fd670645",
+  "parent": "Production Planning Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:03:26.924629",
+  "name": "1abf48045c",
+  "parent": "Website Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Website Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.738013",
+  "name": "093825a76e",
+  "parent": "Work Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.525246",
+  "name": "3486ecdd94",
+  "parent": "Job Card Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.443192",
+  "name": "96628253c2",
+  "parent": "Downtime Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.685514",
+  "name": "0303d20380",
+  "parent": "Quality Inspection Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.533452",
+  "name": "9ed841d664",
+  "parent": "Purchase Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.498644",
+  "name": "57d33716d9",
+  "parent": "Project Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.782802",
+  "name": "2c1ff62f01",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.789564",
+  "name": "99e74ce404",
+  "parent": "Sales Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.660630",
+  "name": "8102d22094",
+  "parent": "Requested Items to Order and Receive",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.149068",
+  "name": "3a117b2fac",
+  "parent": "Stock Qty vs Serial No Count",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:31.453308",
+  "name": "6e8bfe2488",
+  "parent": "YouTube Interactions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.234622",
+  "name": "6abfb8f1cd",
+  "parent": "First Response Time for Opportunity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.054220",
+  "name": "0b8e258a91",
+  "parent": "POS Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:24.904394",
+  "name": "df12b6c6b5",
+  "parent": "warehouse-capacity-summary",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.571328",
+  "name": "1cab22f38c",
+  "parent": "Cost of Poor Quality Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.412043",
+  "name": "3275498c27",
+  "parent": "Delayed Tasks Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.994302",
+  "name": "939406a63a",
+  "parent": "Billed Items To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.918894",
+  "name": "7b76df7fad",
+  "parent": "Serial No Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.894467",
+  "name": "42394c3c8a",
+  "parent": "Incorrect Balance Qty After Transaction",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.033140",
+  "name": "0e15fea6dc",
+  "parent": "Incorrect Serial No Valuation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.718849",
+  "name": "4697fbc85c",
+  "parent": "Subcontract Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.102881",
+  "name": "deabaaf699",
+  "parent": "COGS By Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.268527",
+  "name": "4c132faaf2",
+  "parent": "Incorrect Stock Value Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.121234",
+  "name": "f44dd8bf80",
+  "parent": "Sales Pipeline Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.181185",
+  "name": "0385cd7d53",
+  "parent": "Opportunity Summary by Sales Stage",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.658871",
+  "name": "2d5b2b4146",
+  "parent": "Work Order Consumed Materials",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.931097",
+  "name": "8ba441914a",
+  "parent": "Deferred Revenue and Expense",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.904561",
+  "name": "a9a56192ac",
+  "parent": "Payment Terms Status for Sales Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.973387",
+  "name": "f3a9e4125c",
+  "parent": "Payment Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.781710",
+  "name": "2d706c1ffd",
+  "parent": "Warehouse Wise Stock Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.165166",
+  "name": "ff1a23ac70",
+  "parent": "Voucher-wise Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.245215",
+  "name": "95f7fa79e9",
+  "parent": "Financial Ratios",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.034234",
+  "name": "ccb1ccd904",
+  "parent": "Serial and Batch Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:40.294403",
+  "name": "1c1f2f5007",
+  "parent": "Asset Activity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.274707",
+  "name": "4572327c97",
+  "parent": "General and Payment Ledger Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.189242",
+  "name": "d44e4b7fc6",
+  "parent": "visual-plant-floor",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.222922",
+  "name": "505bcb8c35",
+  "parent": "Lost Quotations",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "7f450491fb",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Translator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.873266",
+  "name": "18ce20034a",
+  "parent": "Inventory",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.907166",
+  "name": "e6bf93e002",
+  "parent": "Manufacturing",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.922270",
+  "name": "4cda7443ee",
+  "parent": "Accounts",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.936233",
+  "name": "a4bb6e5782",
+  "parent": "Sales",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.950271",
+  "name": "219e22aca6",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 12:14:40.928734",
+  "name": "373f59f011",
+  "parent": "USIS EMPLOYEE ROLE",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "SALESPOC"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-14 12:27:23.444033",
+  "name": "f83ec02934",
+  "parent": "yugendran@usistech.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 09:43:49.904867",
+  "name": "fe6e2f6813",
+  "parent": "Delivery for Next 7 days",
+  "parentfield": "roles",
+  "parenttype": "Custom HTML Block",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-01 10:50:11.456351",
+  "name": "d15f4b5589",
+  "parent": "DashBoardCalendar",
+  "parentfield": "roles",
+  "parenttype": "Custom HTML Block",
+  "role": "SALESPOC"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 12:52:30.751183",
+  "name": "4360338693",
+  "parent": "WORK",
+  "parentfield": "roles",
+  "parenttype": "Workspace",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 12:54:24.126277",
+  "name": "0ad06919f1",
+  "parent": "AdminDashBoardCalendar",
+  "parentfield": "roles",
+  "parenttype": "Custom HTML Block",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-08 12:45:46.851430",
+  "name": "cfb9f6984c",
+  "parent": "yugendranp24@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "SALESPOC"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.179821",
+  "name": "14bd343e86",
+  "parent": "Serial No Warranty Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.258416",
+  "name": "cd16c26b79",
+  "parent": "Serial No Service Contract Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.679557",
+  "name": "0b29d32c95",
+  "parent": "Serial No Status",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.185100",
+  "name": "ebd3663c70",
+  "parent": "Accounts Payable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.392520",
+  "name": "053a75175c",
+  "parent": "Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.831877",
+  "name": "88fa3b3068",
+  "parent": "Bank Reconciliation Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.567872",
+  "name": "6822f5c555",
+  "parent": "Bank Clearance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.858090",
+  "name": "4dcb01287e",
+  "parent": "Sales Person-wise Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.610652",
+  "name": "f91c4041d9",
+  "parent": "Item-wise Purchase History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.065512",
+  "name": "1dede7afcd",
+  "parent": "Requested Items To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.414888",
+  "name": "3eb6623ac4",
+  "parent": "Item-wise Sales History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.107407",
+  "name": "fd20324cc7",
+  "parent": "Item-wise Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.189135",
+  "name": "97f0e7c82f",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.155995",
+  "name": "f6c4bba39f",
+  "parent": "Quotation Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.575427",
+  "name": "bc90cd518b",
+  "parent": "Delivery Note Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.374152",
+  "name": "acb6809f47",
+  "parent": "Sales Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.578481",
+  "name": "f344a4bc2b",
+  "parent": "Purchase Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.249248",
+  "name": "0cc82a89a8",
+  "parent": "Purchase Receipt Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.547127",
+  "name": "bfb7d06140",
+  "parent": "Purchase Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.904403",
+  "name": "449e55c7d4",
+  "parent": "Budget Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.961848",
+  "name": "d037c16fb5",
+  "parent": "Available Stock for Packing Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.638129",
+  "name": "ab5890c720",
+  "parent": "Received Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.615795",
+  "name": "8733d71859",
+  "parent": "Material Requests for which Supplier Quotations are not created",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.746309",
+  "name": "13ee0f49d2",
+  "parent": "Item Shortage Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.305247",
+  "name": "436f9e91d1",
+  "parent": "Items To Be Requested",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.162405",
+  "name": "4d6a27dca5",
+  "parent": "Lead Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.832815",
+  "name": "63b9d73929",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.798833",
+  "name": "4fe3436e56",
+  "parent": "Payment Period Based On Invoice Date",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.092963",
+  "name": "f9c38b1025",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.427691",
+  "name": "cf78ba5c12",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.330293",
+  "name": "75ca4c9cb7",
+  "parent": "General Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.070799",
+  "name": "975cd9b081",
+  "parent": "Balance Sheet",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.763043",
+  "name": "c3a96a1276",
+  "parent": "Profit and Loss Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.090317",
+  "name": "7cba23317f",
+  "parent": "Trial Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.049473",
+  "name": "3a0d65816a",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.762087",
+  "name": "683090af15",
+  "parent": "Accounts Payable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.813472",
+  "name": "3c716e68bb",
+  "parent": "Trial Balance for Party",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.015122",
+  "name": "6889760a02",
+  "parent": "Cash Flow",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.285933",
+  "name": "be1fea13ca",
+  "parent": "Inactive Customers",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.317202",
+  "name": "8446cad1f2",
+  "parent": "Daily Timesheet Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.558828",
+  "name": "473f7e7366",
+  "parent": "Supplier Quotation Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.417413",
+  "name": "43699d4ace",
+  "parent": "Profitability Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:04:10.661567",
+  "name": "504d555151",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.256490",
+  "name": "da25c4a0a7",
+  "parent": "Prospects Engaged But Not Converted",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.101540",
+  "name": "7a98b44920",
+  "parent": "Campaign Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:57.216205",
+  "name": "24ff3486bb",
+  "parent": "Lead Owner Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.227694",
+  "name": "93bba192ce",
+  "parent": "Total Stock Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.968141",
+  "name": "aca20de06e",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.862174",
+  "name": "160b04fa86",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.375012",
+  "name": "1ec88ad22a",
+  "parent": "Warehouse wise Item Balance Age and Value",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.542822",
+  "name": "9eb79c5c12",
+  "parent": "Item Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.505621",
+  "name": "376ace8181",
+  "parent": "Consolidated Financial Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.029443",
+  "name": "46ec153917",
+  "parent": "Customers Without Any Sales Transactions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.843966",
+  "name": "92340f205b",
+  "parent": "BOM Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.934372",
+  "name": "c62bbe811b",
+  "parent": "Address And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.952724",
+  "name": "393c5cb1ad",
+  "parent": "TDS Computation Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.351618",
+  "name": "a8bc5bfc12",
+  "parent": "Tax Withholding Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.118414",
+  "name": "e06b92758e",
+  "parent": "Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.202271",
+  "name": "dd0b61a386",
+  "parent": "Stock Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.881914",
+  "name": "ad9f4a01a4",
+  "parent": "Pending SO Items For Purchase Request",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.460403",
+  "name": "b1d1361291",
+  "parent": "Trial Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.851618",
+  "name": "b70c76b267",
+  "parent": "Gross and Net Profit Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.359514",
+  "name": "7c6e4ec30b",
+  "parent": "Employee Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.289223",
+  "name": "0b4d07a48c",
+  "parent": "Project Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.811120",
+  "name": "b3769c43f4",
+  "parent": "Sales Partner Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.738270",
+  "name": "6dd3b829ae",
+  "parent": "Sales Partner Target Variance based on Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.769566",
+  "name": "845a3791ce",
+  "parent": "Sales Person Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.320646",
+  "name": "46c5b59f0a",
+  "parent": "Territory Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.847362",
+  "name": "b95a27ae8c",
+  "parent": "Inactive Sales Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.685834",
+  "name": "7800bb6cd4",
+  "parent": "Subcontracted Item To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.482549",
+  "name": "6b819c94ec",
+  "parent": "Subcontracted Raw Materials To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.985891",
+  "name": "d5bcd3cc7a",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.994635",
+  "name": "9cf13d48c5",
+  "parent": "Delayed Item Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.069944",
+  "name": "ca4c476120",
+  "parent": "Delayed Order Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.042141",
+  "name": "35f082fc1b",
+  "parent": "bom-comparison-tool",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 10:01:11.922283",
+  "name": "aa282ffdd8",
+  "parent": "Home",
+  "parentfield": "roles",
+  "parenttype": "Workspace",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.568693",
+  "name": "61ccf46444",
+  "parent": "point-of-sale",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.500596",
+  "name": "032729a8ce",
+  "parent": "Production Planning Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.738013",
+  "name": "9c08600ad2",
+  "parent": "Work Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.525246",
+  "name": "216d8f610f",
+  "parent": "Job Card Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.443192",
+  "name": "88d7ceb278",
+  "parent": "Downtime Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.685514",
+  "name": "64a9af7360",
+  "parent": "Quality Inspection Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.533452",
+  "name": "4cddac07b7",
+  "parent": "Purchase Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.782802",
+  "name": "c5f09608de",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.789564",
+  "name": "65eed11ff9",
+  "parent": "Sales Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.660630",
+  "name": "2fb07c1322",
+  "parent": "Requested Items to Order and Receive",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.571328",
+  "name": "7b93e1f282",
+  "parent": "Cost of Poor Quality Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.994302",
+  "name": "09329c781d",
+  "parent": "Billed Items To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.918894",
+  "name": "a7b99053aa",
+  "parent": "Serial No Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.894467",
+  "name": "02cea7400b",
+  "parent": "Incorrect Balance Qty After Transaction",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.033140",
+  "name": "f3b8a1a73d",
+  "parent": "Incorrect Serial No Valuation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.718849",
+  "name": "65f7d2b15b",
+  "parent": "Subcontract Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.102881",
+  "name": "87e01feb8d",
+  "parent": "COGS By Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.931097",
+  "name": "7482dc0cde",
+  "parent": "Deferred Revenue and Expense",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.904561",
+  "name": "34176c9ae0",
+  "parent": "Payment Terms Status for Sales Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.973387",
+  "name": "12069b8aee",
+  "parent": "Payment Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.165166",
+  "name": "bdc3eb848b",
+  "parent": "Voucher-wise Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.245215",
+  "name": "c1787cebde",
+  "parent": "Financial Ratios",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.034234",
+  "name": "efbc415b04",
+  "parent": "Serial and Batch Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:40.294403",
+  "name": "b5171fb015",
+  "parent": "Asset Activity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.274707",
+  "name": "335cc40006",
+  "parent": "General and Payment Ledger Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.189242",
+  "name": "7e098492cf",
+  "parent": "visual-plant-floor",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Operator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "e95bb0fbaa",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.874540",
+  "name": "828b3d085a",
+  "parent": "Inventory",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.908057",
+  "name": "16db7a6c6d",
+  "parent": "Manufacturing",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.936705",
+  "name": "142c8f3b38",
+  "parent": "Sales",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.962235",
+  "name": "f136f67c8a",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-01 10:50:11.456351",
+  "name": "cba1c6dd18",
+  "parent": "DashBoardCalendar",
+  "parentfield": "roles",
+  "parenttype": "Custom HTML Block",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 12:52:30.751183",
+  "name": "7f790f0b8f",
+  "parent": "WORK",
+  "parentfield": "roles",
+  "parenttype": "Workspace",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.185100",
+  "name": "e596fdf37f",
+  "parent": "Accounts Payable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.392520",
+  "name": "4dc371c8ef",
+  "parent": "Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.858090",
+  "name": "87be17e12e",
+  "parent": "Sales Person-wise Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.065512",
+  "name": "3b2ba024ab",
+  "parent": "Requested Items To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.414888",
+  "name": "bfb33902e3",
+  "parent": "Item-wise Sales History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.107407",
+  "name": "b58231b72a",
+  "parent": "Item-wise Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.189135",
+  "name": "46edeafaf4",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.155995",
+  "name": "509ee89c5d",
+  "parent": "Quotation Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.575427",
+  "name": "c80287635f",
+  "parent": "Delivery Note Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.374152",
+  "name": "cea9b92c30",
+  "parent": "Sales Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.249248",
+  "name": "a6b28d770b",
+  "parent": "Purchase Receipt Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.547127",
+  "name": "93dda4a79e",
+  "parent": "Purchase Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.904403",
+  "name": "abdd541e14",
+  "parent": "Budget Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.638129",
+  "name": "26e00309f4",
+  "parent": "Received Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.615795",
+  "name": "12f94958c1",
+  "parent": "Material Requests for which Supplier Quotations are not created",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.305247",
+  "name": "32fc59dfe9",
+  "parent": "Items To Be Requested",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.832815",
+  "name": "411946cf31",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.092963",
+  "name": "b51057d6fd",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.427691",
+  "name": "f6f8468f99",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.049473",
+  "name": "7052476a89",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.762087",
+  "name": "4b62d87332",
+  "parent": "Accounts Payable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.285933",
+  "name": "5049e28948",
+  "parent": "Inactive Customers",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.317202",
+  "name": "ad841059c4",
+  "parent": "Daily Timesheet Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.558828",
+  "name": "0c73730f1a",
+  "parent": "Supplier Quotation Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:04:10.661567",
+  "name": "f25073431a",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.227694",
+  "name": "1de7e8a6b9",
+  "parent": "Total Stock Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.968141",
+  "name": "2b21c0227f",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.862174",
+  "name": "da1d5e6081",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.375012",
+  "name": "424b567bb0",
+  "parent": "Warehouse wise Item Balance Age and Value",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.505621",
+  "name": "10f30fb38c",
+  "parent": "Consolidated Financial Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.843966",
+  "name": "aec6752c1a",
+  "parent": "BOM Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.934372",
+  "name": "c8a93bbf7f",
+  "parent": "Address And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.952724",
+  "name": "9f37870d10",
+  "parent": "TDS Computation Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.351618",
+  "name": "41fa05a80c",
+  "parent": "Tax Withholding Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.118414",
+  "name": "119dd10a3b",
+  "parent": "Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.202271",
+  "name": "2fa9517422",
+  "parent": "Stock Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.881914",
+  "name": "240d1dc8c2",
+  "parent": "Pending SO Items For Purchase Request",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.359514",
+  "name": "499f049c56",
+  "parent": "Employee Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.289223",
+  "name": "077802c437",
+  "parent": "Project Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.811120",
+  "name": "790e05a70a",
+  "parent": "Sales Partner Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.738270",
+  "name": "c918ec5af1",
+  "parent": "Sales Partner Target Variance based on Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.769566",
+  "name": "4ab7fa1bb2",
+  "parent": "Sales Person Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.320646",
+  "name": "b84dd4c7a8",
+  "parent": "Territory Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.985891",
+  "name": "81b4654484",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.994635",
+  "name": "724ee8b768",
+  "parent": "Delayed Item Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.069944",
+  "name": "2d4b0e2243",
+  "parent": "Delayed Order Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 10:01:11.922283",
+  "name": "fb7bbdbe61",
+  "parent": "Home",
+  "parentfield": "roles",
+  "parenttype": "Workspace",
+  "role": "CustomerPOC"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.568693",
+  "name": "2d9f27b46b",
+  "parent": "point-of-sale",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.525246",
+  "name": "78540dc21e",
+  "parent": "Job Card Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.533452",
+  "name": "ef08ab3567",
+  "parent": "Purchase Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Supplier"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.782802",
+  "name": "c0989b1f98",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.789564",
+  "name": "eb80c04fbb",
+  "parent": "Sales Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:06.660630",
+  "name": "967e596d31",
+  "parent": "Requested Items to Order and Receive",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.994302",
+  "name": "234e3964ee",
+  "parent": "Billed Items To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:26.033140",
+  "name": "28d3321d29",
+  "parent": "Incorrect Serial No Valuation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.904561",
+  "name": "1ababd683b",
+  "parent": "Payment Terms Status for Sales Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.245215",
+  "name": "cf8962c154",
+  "parent": "Financial Ratios",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.034234",
+  "name": "ddfc82503b",
+  "parent": "Serial and Batch Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "8240b2e995",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:08:23.963040",
+  "name": "3e47c7034a",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-01 10:50:11.456351",
+  "name": "41ae00fcab",
+  "parent": "DashBoardCalendar",
+  "parentfield": "roles",
+  "parenttype": "Custom HTML Block",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 12:52:30.751183",
+  "name": "71bb063b73",
+  "parent": "WORK",
+  "parentfield": "roles",
+  "parenttype": "Workspace",
+  "role": "CustomerPOC"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.858090",
+  "name": "663c946ab8",
+  "parent": "Sales Person-wise Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.414888",
+  "name": "9b33c2fb0b",
+  "parent": "Item-wise Sales History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.189135",
+  "name": "2162bb8b99",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.374152",
+  "name": "3a16c31bdd",
+  "parent": "Sales Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.904403",
+  "name": "64e10ddf69",
+  "parent": "Budget Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.832815",
+  "name": "87e13c2afb",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.092963",
+  "name": "48c1e0bddc",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.427691",
+  "name": "4099580d62",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.049473",
+  "name": "470a5ad497",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.285933",
+  "name": "067ac7af7d",
+  "parent": "Inactive Customers",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.968141",
+  "name": "770c1aa62c",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.862174",
+  "name": "c7d560d381",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.505621",
+  "name": "5a8d821911",
+  "parent": "Consolidated Financial Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.881914",
+  "name": "6b1cb9b919",
+  "parent": "Pending SO Items For Purchase Request",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.359514",
+  "name": "84eec7078d",
+  "parent": "Employee Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:13.289223",
+  "name": "45207bbbdd",
+  "parent": "Project Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.811120",
+  "name": "3b967a2a0d",
+  "parent": "Sales Partner Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.738270",
+  "name": "179ed363c5",
+  "parent": "Sales Partner Target Variance based on Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.769566",
+  "name": "aa62946510",
+  "parent": "Sales Person Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.320646",
+  "name": "4a636cdf2a",
+  "parent": "Territory Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.985891",
+  "name": "c96c18574b",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.994635",
+  "name": "2b47f70ba5",
+  "parent": "Delayed Item Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.069944",
+  "name": "027b5cc307",
+  "parent": "Delayed Order Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 10:01:11.922283",
+  "name": "3f480eae1f",
+  "parent": "Home",
+  "parentfield": "roles",
+  "parenttype": "Workspace",
+  "role": "SALESPOC"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.782802",
+  "name": "f95e00de12",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.789564",
+  "name": "d88749d1c8",
+  "parent": "Sales Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:43.994302",
+  "name": "e5ccd54b3c",
+  "parent": "Billed Items To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.904561",
+  "name": "2aaffa11ce",
+  "parent": "Payment Terms Status for Sales Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:05:44.245215",
+  "name": "515e39b7d9",
+  "parent": "Financial Ratios",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.034234",
+  "name": "0d1f39e52a",
+  "parent": "Serial and Batch Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "15e0784a10",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-04-02 12:52:30.751183",
+  "name": "183b6285b6",
+  "parent": "WORK",
+  "parentfield": "roles",
+  "parenttype": "Workspace",
+  "role": "SALESPOC"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.189135",
+  "name": "d8d52d9ce8",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.832815",
+  "name": "398cfab82b",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.092963",
+  "name": "4f32cb5277",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.427691",
+  "name": "c3bb33d1b9",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.049473",
+  "name": "fb521f3ea1",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.968141",
+  "name": "bd10f47a38",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.862174",
+  "name": "619b491a4d",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.985891",
+  "name": "a8d42e900d",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:53.782802",
+  "name": "79c708ab89",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "390fca1739",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.189135",
+  "name": "de6b6577e2",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.832815",
+  "name": "02f1edb794",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.092963",
+  "name": "cd7b34f6ff",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.427691",
+  "name": "ea46687faa",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:23.049473",
+  "name": "fdc3a5dfea",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.968141",
+  "name": "bbb8af10a6",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.862174",
+  "name": "565d436180",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:06:22.985891",
+  "name": "724b1094c4",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "174a3180aa",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.189135",
+  "name": "ee122ffaad",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.092963",
+  "name": "1e5c88931d",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.427691",
+  "name": "589b811a35",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.968141",
+  "name": "85cda13e73",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-02-21 17:07:25.862174",
+  "name": "32ee93ae05",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "22aa1c2319",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "0f18aa5f00",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "b8a5f2b4be",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "75992aad89",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "5244c4340f",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "4cc90fb8bf",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Blogger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "ea507001c6",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Newsletter Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "c3e569b710",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Editor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "373bade8e9",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Contributor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "0b5d043614",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Prepared Report User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "4543db955b",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Inbox User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "0beede0444",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Script Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "b7cd679a3b",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Report Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "f047fe3bf4",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Workspace Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "22911eb28a",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Dashboard Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "e86d37d4ec",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Website Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "741c7fd8ea",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Academics User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "138a573e4e",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fleet Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "49945406ac",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "7966491f7e",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "a7fe9908d8",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "01b5e530a0",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "2033083d96",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "e0a351b08c",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Analytics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "7000659e11",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "8bdde3e8e5",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "b33e0df10e",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "005575a4e8",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "b521576a2c",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "735009df69",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "88c7f10b5b",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "08b1c2a2aa",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "f8c3e659e9",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "51612f5b96",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "e18b269837",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-03-12 13:42:25.978745",
+  "name": "6202ccd4f6",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fulfillment User"
+ }
+]

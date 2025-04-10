@@ -1,0 +1,62 @@
+[
+ {
+  "add_total_row": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": "{}",
+  "letter_head": null,
+  "modified": "2025-03-22 14:58:34.526005",
+  "module": "POC",
+  "name": "testreport",
+  "prepared_report": 0,
+  "query": "SELECT name,title,startdate,end_date,assigned,jobtitle,vechicle \nFROM tabtestingcal \nWHERE DATE(startdate) >= CURDATE() AND date(startdate)<= DATE_ADD(CURDATE(), INTERVAL 6 DAY);\n",
+  "ref_doctype": "testingcal",
+  "reference_report": null,
+  "report_name": "testreport",
+  "report_script": null,
+  "report_type": "Query Report",
+  "roles": [
+   {
+    "parent": "testreport",
+    "parentfield": "roles",
+    "parenttype": "Report",
+    "role": "System Manager"
+   }
+  ]
+ },
+ {
+  "add_total_row": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-03-22 16:28:09.910457",
+  "module": "POC",
+  "name": "Next & days Delivery Report",
+  "prepared_report": 0,
+  "query": "SELECT name,title,startdate,end_date,assigned,jobtitle,vechicle \nFROM tabtestingcal \nWHERE DATE(startdate) >= CURDATE() AND date(startdate)<= DATE_ADD(CURDATE(), INTERVAL 6 DAY);\n",
+  "ref_doctype": "testingcal",
+  "reference_report": null,
+  "report_name": "Next & days Delivery Report",
+  "report_script": null,
+  "report_type": "Query Report",
+  "roles": [
+   {
+    "parent": "Next & days Delivery Report",
+    "parentfield": "roles",
+    "parenttype": "Report",
+    "role": "System Manager"
+   }
+  ]
+ }
+]

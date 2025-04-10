@@ -226,4 +226,33 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
+fixtures = [
+    "Custom Field",
+    "Workflow",
+    "Client Script",
+    "Workflow State",
+    "Workflow Action Master",
+    "Role",
+    "Has Role",
+    "User",
+    "Module Def",
+    "Notification",
+    "Web Page",
+    "Web Template",
+    "Web Template Field",
+    "Workspace",
+    "Navbar Item",
+    "Navbar Settings",
+    "Email Account",
+    "Module Profile",
+    "Number Card",
+    "Custom HTML Block",
+    {
+        "doctype": "DocType",
+        "filters": [["module", "=", "POC"]]
+    },
+    {
+        "doctype": "Report",
+        "filters": [["module", "=", "POC"]]
+    }
+]
